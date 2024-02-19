@@ -43,6 +43,10 @@ main {
   grid-area: main;
   background-color: rgb(153, 229, 153);
 }
+main h2 {
+  background-color: black;
+  color: white;
+}
 
 aside {
   grid-area: aside;
