@@ -33,6 +33,12 @@ nav {
   background-color: rgb(169, 111, 222);
 }
 
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 main {
   grid-area: main;
   background-color: rgb(153, 229, 153);
