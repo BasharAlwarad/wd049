@@ -47,6 +47,9 @@ footer {
   grid-area: footer;
   background-color: rgb(221, 221, 125);
 }
+footer button {
+  background-color: yellow;
+}
 
 @media screen and (max-width: 600px) {
   body {
